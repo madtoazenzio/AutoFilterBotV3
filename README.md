@@ -22,6 +22,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
 
+
+### Railway Variables
+
+[Click Here ] (https://github.com/madtoazenzio/AUTO-FILTER-V3-BOT-VARIABLES/blob/db83648b8005d857e7ddd1fb94d65105da9b5584/%E2%AD%95VARIABLES%20COPY%20RAILWAY%20%E2%AD%95)
 #### Hard Way
 ```bash
 # Create virtual environment
